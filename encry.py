@@ -1,6 +1,5 @@
 #for python3 
 
-
 def encrypt(txt, key):
     alphabets = "abcdefghijklmnopqrstuvwxyz"    
     punctuation = '! .-'
