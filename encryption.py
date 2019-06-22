@@ -1,3 +1,5 @@
+#Written for python2
+
 import os
 
 def encrypt(a, b):
